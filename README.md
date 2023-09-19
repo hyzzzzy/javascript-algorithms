@@ -82,3 +82,18 @@
 6. [공주구하기(큐)](https://github.com/hyzzzzy/javascript-algorithms/blob/main/stack%2C%20queue/6.%20%EA%B3%B5%EC%A3%BC%20%EA%B5%AC%ED%95%98%EA%B8%B0.js)
 7. [교육과정설계(큐)](https://github.com/hyzzzzy/javascript-algorithms/blob/main/stack%2C%20queue/7.%20%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%20%EC%84%A4%EA%B3%84.js)
 </details>
+
+<details>
+<summary>7. 정렬과 그리디, 결정알고리즘(이분검색)</summary>
+
+1. [선택정렬](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/1.%20%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC.js)
+2. [버블정렬](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/2.%20%EB%B2%84%EB%B8%94%20%EC%A0%95%EB%A0%AC.js)
+3. [Special Sort(버블정렬응용)](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/3.%20Special%20Sort.js)
+4. [삽입정렬](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/4.%20%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC.js)
+5. [LRU(카카오 캐시 변형 : 삽입정렬응용)](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/5.%20Least%20Recently%20Used.js)
+6. [장난꾸러기 현수](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/6.%20%EC%9E%A5%EB%82%9C%EA%BE%B8%EB%9F%AC%EA%B8%B0%20%ED%98%84%EC%88%98.js)
+7. [좌표 정렬](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/7.%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC.js)
+8. [회의실 배정](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/8.%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.js)
+9. [결혼식](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/9.%20%EA%B2%B0%ED%98%BC%EC%8B%9D.js)
+10. [이분검색](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/10.%20%EC%9D%B4%EB%B6%84%EA%B2%80%EC%83%89.js)
+</details>
