@@ -96,4 +96,15 @@
 8. [회의실 배정](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/8.%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.js)
 9. [결혼식](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/9.%20%EA%B2%B0%ED%98%BC%EC%8B%9D.js)
 10. [이분검색](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/10.%20%EC%9D%B4%EB%B6%84%EA%B2%80%EC%83%89.js)
+11. [뮤직비디오(결정알고리즘)](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/11.%20%EB%AE%A4%EC%A7%81%EB%B9%84%EB%94%94%EC%98%A4(%EA%B2%B0%EC%A0%95%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98).js)
+12. [마구간 정하기(결정알고리즘)](https://github.com/hyzzzzy/javascript-algorithms/blob/main/sort%2C%20greedy%2C%20deterministic-algorithm/12.%20%EB%A7%88%EA%B5%AC%EA%B0%84%20%EC%A0%95%ED%95%98%EA%B8%B0(%EA%B2%B0%EC%A0%95%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98).js)
+</details>
+
+
+<details>
+<summary>8. 재귀함수와 완전탐색(DFS:깊이우선탐색)</summary>
+
+1. [재귀함수와 스택프레임](https://github.com/hyzzzzy/javascript-algorithms/blob/main/recursive%2C%20exhaustive-search(dfs)/1.%20%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98.js)
+2. [이진수 출력(재귀)](https://github.com/hyzzzzy/javascript-algorithms/blob/main/recursive%2C%20exhaustive-search(dfs)/2.%20%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9D%B4%EC%A7%84%EC%88%98%20%EC%B6%9C%EB%A0%A5.js)
+3. [이진트리순회(DFS: 깊이우선탐색)](https://github.com/hyzzzzy/javascript-algorithms/blob/main/recursive%2C%20exhaustive-search(dfs)/3.%20%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89).js)
 </details>
